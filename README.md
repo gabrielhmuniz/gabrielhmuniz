@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Gabriel</h2>
 
 - 🔭 I’m currently studying at São Paulo State University
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
